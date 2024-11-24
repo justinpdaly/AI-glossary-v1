@@ -2,7 +2,7 @@
 
 A responsive, interactive web application that provides definitions for common artificial intelligence and machine learning terms. Built with React and styled with Tailwind CSS, featuring both light and dark modes for optimal viewing experience.
 
-[Live Demo](https://justinpdaly.github.io/ai-glossary) <!-- Replace with your actual GitHub Pages URL -->
+[Live Demo](https://justinpdaly.github.io/AI-glossary-v1/) <!-- Replace with your actual GitHub Pages URL -->
 
 ## Features
 
